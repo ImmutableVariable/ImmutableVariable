@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there 👋
+Im a hobbist programmer who enjoys solving problems!
+### Skills
+- Programming Languages: Rust, Javascript, Python 
+- Web Development: HTML, CSS, React
+- Databases: SQL (PostgreSQL), MongoDB
+- Version Control: Git
+### Interests
+Aside from programming, I enjoy exploring new technologies. I also enjoy gaming!
 
 - 🔭 I’m currently working on whalebot/wbuster!
 - 🌱 I’m currently learning more rust 😅
