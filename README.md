@@ -7,8 +7,6 @@ Im a hobbist programmer who enjoys solving problems!
 - Version Control: Git
 ### Interests
 Aside from programming, I enjoy exploring new technologies. I also enjoy gaming!
-
-- 🔭 I’m currently working on whalebot/wbuster!
 - 🌱 I’m currently learning more rust 😅
 - 📫 How to reach me: whalebot.contact@gmail.com | https://discord.gg/AMEh6c6xpv 
 - ⚡ Fun fact: Sloths are the best animal 
