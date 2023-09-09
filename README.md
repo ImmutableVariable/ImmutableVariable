@@ -8,5 +8,5 @@ Im a hobbist programmer who enjoys solving problems!
 ### Interests
 Aside from programming, I enjoy exploring new technologies. I also enjoy gaming!
 - 🌱 I’m currently learning more rust 😅
-- 📫 How to reach me: whalebot.contact@gmail.com | https://discord.gg/AMEh6c6xpv 
+- 📫 How to reach me: whalebot.contact@gmail.com
 - ⚡ Fun fact: Sloths are the best animal 
